@@ -1,0 +1,10 @@
+道路安全　自己適応システムの安全分析
+初心者
+安全分析
+自動車安全
+道路安全
+交通安全
+ACM Transactions on Autonomous and Adaptive Systems
+https://dl.acm.org/journal/taas/editorial-board?fbclid=IwAR020SIc0limwvVpuufkIbYFncXwhkm9I40FrlpWKhY8woCeEBQTb8cnHKw
+上記に「道路安全　自己適応システムの安全分析」を投稿すべくgithubで資料整理をはじめました。投稿に連名いただける方を募集します。6ヶ月以内を目標にしています。2ヶ月後にTOPPERSのコンテストに応募し、１年後にはIEEEに投稿予定です。その２つも連名者を募集しています。それぞれ、オープンソースで模擬試験をすることと、分析の結果に基づいた提言を想定しています。　
+arxivでRoad Safetyで検索したら544。参考文献に入れるのは100件未満に絞ろうとしました。読んで行くと絞れずに、参考文献の参考文献の一覧を作って篩にかけようと思いました。
